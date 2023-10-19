@@ -1,6 +1,6 @@
 export namespace ConfiguracionSeguridad {
   export const claveJWT = process.env.SECRET_PASSWORD_JWT;
-  export const menuUsuarioId = "63d04fcd013402040c040968";
+  export const menuUsuarioId = "652f586074456d48a89dd226";
   export const listarAccion = "listar";
   export const guardarAccion = "guardar";
   export const editarAccion = "editar";
